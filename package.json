@@ -5,6 +5,11 @@
   "hexo": {
     "version": "4.2.1"
   },
+  "scripts": {
+    "build": "hexo generate",
+    "build:alioss": "node deployToAliyun.js",
+    "build:tencentCos": "node deployTotencentCos.js"
+  },
   "dependencies": {
     "@iktakahiro/markdown-it-katex": "^3.1.0",
     "hexo": "^4.0.0",
@@ -30,5 +35,9 @@
     "markdown-it-regexp": "^0.4.0",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0"
+  },
+  "devDependencies": {
+    "ali-oss": "^6.13.1",
+    "cos-nodejs-sdk-v5": "^2.8.5"
   }
 }
