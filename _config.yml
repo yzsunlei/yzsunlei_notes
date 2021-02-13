@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: book-demo
+title: 小磊哥er的前端笔记
 subtitle:
 description:
-keywords:
-author: kaiiiz
+keywords: 小磊哥er
+author: yzsunlei
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://kaiiiz.github.io/hexo-theme-book-demo
-root: /hexo-theme-book-demo/
+root: /
 permalink: :title/
 permalink_defaults:
 
