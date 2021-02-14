@@ -221,48 +221,70 @@
 
 # 其他
 
-## 书籍笔记
+## 前端书籍笔记
 
-- [A.《响应式Web设计:HTML5和CSS3实战》](/others/book-reading/A.《响应式Web设计:HTML5和CSS3实战》/)
+- [A.《响应式Web设计:HTML5和CSS3实战》](/others/fe dfed-book-reading/A.《响应式Web设计:HTML5和CSS3实战》/)
 
-- [B.《CSS世界》](/others/book-reading/B.《CSS世界》/)
+- [B.《CSS世界》](/others/fed-book-reading/B.《CSS世界》/)
 
-- [C.《学习JavaScript数据结构与算法-第2版》](/others/book-reading/C.《学习JavaScript数据结构与算法-第2版》/)
+- [C.《学习JavaScript数据结构与算法-第2版》](/others/fed-book-reading/C.《学习JavaScript数据结构与算法-第2版》/)
 
-- [D.《基于MVC的JavaScript_Web富应用开发》](/others/book-reading/D.《基于MVC的JavaScript_Web富应用开发》/)
+- [D.《基于MVC的JavaScript_Web富应用开发》](/others/fed-book-reading/D.《基于MVC的JavaScript_Web富应用开发》/)
 
-- [D.《移动WEB前端高级开发实践》](/others/book-reading/D.《移动WEB前端高级开发实践》/)
+- [D.《移动WEB前端高级开发实践》](/others/fed-book-reading/D.《移动WEB前端高级开发实践》/)
 
-- [E.《高性能网站建设指南》](/others/book-reading/E.《高性能网站建设指南》/)
+- [E.《高性能网站建设指南》](/others/fed-book-reading/E.《高性能网站建设指南》/)
 
-- [E.《你不知道的JavaScript（上卷）》](/others/book-reading/E.《你不知道的JavaScript（上卷）》/)
+- [E.《你不知道的JavaScript（上卷）》](/others/fed-book-reading/E.《你不知道的JavaScript（上卷）》/)
 
-- [E.《你不知道的JavaScript（下卷）》](/others/book-reading/E.《你不知道的JavaScript（下卷）》/)
+- [E.《你不知道的JavaScript（下卷）》](/others/fed-book-reading/E.《你不知道的JavaScript（下卷）》/)
 
-- [E.《图解HTTP》](/others/book-reading/E.《图解HTTP》/)
+- [E.《图解HTTP》](/others/fed-book-reading/E.《图解HTTP》/)
 
-- [E.《JavaScript-ES6函数式编程入门经典》](/others/book-reading/E.《JavaScript-ES6函数式编程入门经典》/)
+- [E.《JavaScript-ES6函数式编程入门经典》](/others/fed-book-reading/E.《JavaScript-ES6函数式编程入门经典》/)
 
-- [E.《JavaScript设计模式与开发实践》](/others/book-reading/E.《JavaScript设计模式与开发实践》/)
+- [E.《JavaScript设计模式与开发实践》](/others/fed-book-reading/E.《JavaScript设计模式与开发实践》/)
 
-- [E.《JavaScript异步编程》](/others/book-reading/E.《JavaScript异步编程》/)
+- [E.《JavaScript异步编程》](/others/fed-book-reading/E.《JavaScript异步编程》/)
 
-- [G.《React进阶之路》](/others/book-reading/G.《React进阶之路》/)
+- [G.《React进阶之路》](/others/fed-book-reading/G.《React进阶之路》/)
 
-- [H.《前端工程化：体系设计与实践》](/others/book-reading/H.《前端工程化：体系设计与实践》/)
+- [H.《前端工程化：体系设计与实践》](/others/fed-book-reading/H.《前端工程化：体系设计与实践》/)
 
-- [J.《React_Native精解与实战》](/others/book-reading/J.《React_Native精解与实战》/)
+- [J.《React_Native精解与实战》](/others/fed-book-reading/J.《React_Native精解与实战》/)
 
-- [J.《React_Native移动开发实战》](/others/book-reading/J.《React_Native移动开发实战》/)
+- [J.《React_Native移动开发实战》](/others/fed-book-reading/J.《React_Native移动开发实战》/)
 
-- [K.《深入浅出Node.js》](/others/book-reading/K.《深入浅出Node.js》/)
+- [K.《深入浅出Node.js》](/others/fed-book-reading/K.《深入浅出Node.js》/)
 
-- [K.《Koa与Node.js开发实战》](/others/book-reading/K.《Koa与Node.js开发实战》/)
+- [K.《Koa与Node.js开发实战》](/others/fed-book-reading/K.《Koa与Node.js开发实战》/)
 
-- [L.《算法图解》_袁国忠译](/others/book-reading/L.《算法图解》/)
+- [L.《算法图解》_袁国忠译](/others/fed-book-reading/L.《算法图解》/)
 
-- [L.《图解TCP_IP_第5版》](/others/book-reading/L.《图解TCP_IP_第5版》/)
+- [L.《图解TCP_IP_第5版》](/others/fed-book-reading/L.《图解TCP_IP_第5版》/)
 
-- [L.《Electron实战：入门、进阶与性能优化》](/others/book-reading/L.《Electron实战：入门、进阶与性能优化》/)
+- [L.《Electron实战：入门、进阶与性能优化》](/others/fed-book-reading/L.《Electron实战：入门、进阶与性能优化》/)
 
-- [L.《Web前端黑客技术揭秘》](/others/book-reading/L.《Web前端黑客技术揭秘》/)
+- [L.《Web前端黑客技术揭秘》](/others/fed-book-reading/L.《Web前端黑客技术揭秘》/)
+
+## 经管书籍笔记
+
+- [01.《把时间当作朋友》_李笑来](/others/busi-book-reading/01.《把时间当作朋友》_李笑来/)
+
+- [02.《学习敏捷》_AndrewStellman_段志岩](/others/busi-book-reading/02.《学习敏捷》_AndrewStellman_段志岩/)
+
+- [03.《增长黑客》(范冰)_创业公司的用户与收入增长秘籍](/others/busi-book-reading/03.《增长黑客》(范冰)_创业公司的用户与收入增长秘籍/)
+
+- [04.《增长黑客实战》_(范冰、张溪梦)](/others/busi-book-reading/04.《增长黑客实战》_(范冰、张溪梦)/)
+
+- [05.《数学通识50讲》_吴军](/others/busi-book-reading/05.《数学通识50讲》_吴军/)
+
+- [06.《科技史纲60讲》_吴军](/others/busi-book-reading/06.《科技史纲60讲》_吴军/)
+
+- [07.《信息论40讲》_吴军](/others/busi-book-reading/07.《信息论40讲》_吴军)
+
+- [08.《精益创业实战》(Ash_Maurya)](/others/busi-book-reading/08.《精益创业实战》(Ash_Maurya)/)
+
+- [09.《从1到N-企业数字化生存指南》](/others/busi-book-reading/09.《从1到N-企业数字化生存指南》/)
+
+- [10.《贝佐斯的数字帝国：亚马逊如何实现指数级增长》](/others/busi-book-reading/10.《贝佐斯的数字帝国：亚马逊如何实现指数级增长》/)
