@@ -6,6 +6,9 @@
     "version": "4.2.1"
   },
   "scripts": {
+    "dev": "npm run server",
+    "start": "npm run server",
+    "server": "hexo server",
     "build": "hexo generate",
     "build:alioss": "node deployToAliyun.js",
     "build:tencentCos": "node deployTotencentCos.js"
