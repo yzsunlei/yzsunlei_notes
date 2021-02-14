@@ -86,6 +86,36 @@
 
 ## Vue源码学习
 
+- [0.简介](/advance/vue-source/README/)
+
+- [1.1.Vue源码结构说明](/advance/vue-source/1.1.Vue源码结构说明/)
+
+- [1.2.Vue初始化过程分析-new Vue()到底做了什么](/advance/vue-source/1.2.Vue初始化过程分析-new%20Vue()到底做了什么/)
+
+- [1.3.Vue双向绑定原理-Object.defineProperty数据劫持和发布订阅机制](/advance/vue-source/1.3.Vue双向绑定原理-Object.defineProperty数据劫持和发布订阅机制/)
+
+- [1.4.Vue模板编译原理-Template生成AST](/advance/vue-source/1.4.Vue模板编译原理-Template生成AST/)
+
+- [1.5.Vue模板编译原理-AST生成Render字符串](/advance/vue-source/1.5.Vue模板编译原理-AST生成Render字符串/)
+
+- [2.1.Vue-router源码结构说明](/advance/vue-source/2.1.Vue-router源码结构说明/)
+
+- [2.2.Vue-router使用过程分析](/advance/vue-source/2.2.Vue-router使用过程分析/)
+
+- [2.3.Vue-router基本实现原理](/advance/vue-source/2.3.Vue-router基本实现原理/)
+
+- [2.4.Vue-router匹配机制解析](/advance/vue-source/2.4.Vue-router匹配机制解析/)
+
+- [2.5.Vue-router高级功能分析](/advance/vue-source/2.5.Vue-router高级功能分析/)
+
+- [3.1.Vuex源码结构说明](/advance/vue-source/3.1.Vuex源码结构说明/)
+
+- [3.2.Vuex安装使用分析](/advance/vue-source/3.2.Vuex安装使用分析/)
+
+- [3.3.Vuex核心功能解析](/advance/vue-source/3.3.Vuex核心功能解析/)
+
+- [3.4.Vuex中辅助函数实现说明](/advance/vue-source/3.4.Vuex中辅助函数实现说明/)
+
 ## React源码学习
 
 # 前端基础
