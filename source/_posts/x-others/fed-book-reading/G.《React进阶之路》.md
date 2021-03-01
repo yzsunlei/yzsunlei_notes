@@ -172,3 +172,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/15g8dwBHcPJBVEmO7mlh52g(提取码：zfjg)](https://pan.baidu.com/s/15g8dwBHcPJBVEmO7mlh52g)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《React进阶之路》_徐超.svg)
+- 得到电子书地址：无

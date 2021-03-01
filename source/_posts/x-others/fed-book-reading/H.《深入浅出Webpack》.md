@@ -194,3 +194,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1EpM6KV5Lu6nmGJG_j3iI2w(提取码：yxn1)](https://pan.baidu.com/s/1EpM6KV5Lu6nmGJG_j3iI2w)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《深入浅出Webpack》_吴浩麟_201801.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/XOnaYG1qlM7amvGYerDZOy9JVnXL40B7z8WBkp1NKxoRdb86P2Q5AzgEj9vE5rDo)

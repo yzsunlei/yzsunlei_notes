@@ -723,3 +723,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/17QLgFO2zcTBJNKCJz05Lsg(提取码：j29j)](https://pan.baidu.com/s/17QLgFO2zcTBJNKCJz05Lsg)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《JavaScript设计模式与开发实践》_曾探.svg)
+- 得到电子书地址：无

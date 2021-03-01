@@ -324,3 +324,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1OhLjjtfffjX3hv2_Pw7AHQ(提取码：9m33)](https://pan.baidu.com/s/1OhLjjtfffjX3hv2_Pw7AHQ)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《深入浅出Node.js》_仆灵.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/V5R16yPmaYOMqGRAv82jkX4KDe175w7pYR0rbx6pNgznl9VZPLJQyEBodb89mqoO)

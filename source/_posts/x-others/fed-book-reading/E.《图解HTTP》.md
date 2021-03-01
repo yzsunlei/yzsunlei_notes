@@ -96,3 +96,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1a9aNJZYEl8bFw7NlIL46tQ(提取码：etua)](https://pan.baidu.com/s/1a9aNJZYEl8bFw7NlIL46tQ)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《图解HTTP》于均良译_201405.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/2BeEdA94ma8x6VX2zLjQBNq5dKveMw1RNY0JZPAO1lGbpRyYgonDEr97kMoLmlba)

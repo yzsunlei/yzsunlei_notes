@@ -250,3 +250,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1CBWzkbFHsHvlR4nkApOGwQ(提取码：c8qy)](https://pan.baidu.com/s/1CBWzkbFHsHvlR4nkApOGwQ)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《基于MVC的JavaScript_Web富应用开发》_Alex MacCaw_李晶等.svg)
+- 得到电子书地址：无

@@ -1,5 +1,10 @@
 ## 《Serverless架构：从原理、设计到项目实战》精读笔记
 
+### 写在前面
+- 书籍介绍：
+- 我的简评：
+- ！！福利：文末有pdf书籍、笔记思维导图、随书代码打包下载地址哦
+
 #### 1.	第1章 初识Serverless
 
 ###### 1.1.什么是Serverless
@@ -82,3 +87,7 @@
 - 5.1.物联网相关-定制智能音箱小工具
 - 5.2.其他场景实践：1.OJ判题机/小程序在线编程系统实现；2.Serverless与高可用服务-使用云函数实现双机存储；3.Serverless与高可用服务-基于Serverless架构的高可用模型；4.微信公众号机器人
 
+### 写在后面
+- pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1jopDlJRUkNXoPovX8jgSug(提取码：i9wx)](https://pan.baidu.com/s/1jopDlJRUkNXoPovX8jgSug)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《图解TCP_IP_第5版》竹下隆史等_201307.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw257y3BNn2r6ljVPO1mX9ad4JZpzZn1RbeE)

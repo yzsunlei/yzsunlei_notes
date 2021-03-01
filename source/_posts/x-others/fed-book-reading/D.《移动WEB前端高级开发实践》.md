@@ -405,3 +405,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1NwdZhaEoHvCkEJ8L4HvnDA(提取码：tmq7)](https://pan.baidu.com/s/1NwdZhaEoHvCkEJ8L4HvnDA)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《移动WEB前端高级开发实践》_iKcamp.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/ebook/donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3po1bWnBRyejENkP1KZo9rD4OApxpxkY7Ke)

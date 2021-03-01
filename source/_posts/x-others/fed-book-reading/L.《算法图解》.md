@@ -69,3 +69,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1HTuiD7c3JKyoSqanT1iDqA(提取码：yocb)](https://pan.baidu.com/s/1HTuiD7c3JKyoSqanT1iDqA)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《算法图解》_袁国忠译_201703.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/bODoM61kAj9Rql84gzG5nVNZopXKY3D8eq3JLrBmEDv2QPMOyx7a6e1dbPQj2Zdm)

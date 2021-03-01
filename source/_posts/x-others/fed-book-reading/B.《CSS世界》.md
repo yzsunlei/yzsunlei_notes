@@ -18,10 +18,10 @@
 #### 1.3.CSS完胜SVG的武器-流
 - 现在看来，SVG显然要比Flash优秀很多，SVG开发、标准，和CSS和JavaScript都能很方便地进行交互
 - SVG的强项是图形，其文字内容的呈现实在不敢恭维
-- 何为“流”：“流”实际上是CSS世界中德一种基本的定位和布局机制；CSS世界构建的基石是HTML，而HTML最具代表的两个基石<div>和<span>正好是CSS世界中块级元素和内联级元素的代表；所谓“流”，就是CSS世界中引导元素排列和定位的一条看不见的“水流”；
+- 何为“流”：“流”实际上是CSS世界中德一种基本的定位和布局机制；CSS世界构建的基石是HTML，而HTML最具代表的两个基石`<div>`和`<span>`正好是CSS世界中块级元素和内联级元素的代表；所谓“流”，就是CSS世界中引导元素排列和定位的一条看不见的“水流”；
 - 流是如何影响整个CSS世界的：1.擒贼先擒王；2.特殊布局与流的破坏；3.流向的改变
 - 什么是流体布局：所谓“流体布局”，指的是利用元素“流”的特性实现的各类布局效果；“流体布局”并不等同于“自适应布局”；“自适应布局”是对凡是具有自适应特性的一类布局的统称；
-- table自己的世界：<table>比CSS还要老；“流”的特性对<table>并不适用；
+- table自己的世界：`<table>`比CSS还要老；“流”的特性对`<table>`并不适用；
 - 人们对互联网的需求也在变化：1.布局更为丰富。移动端的崛起、弹性盒子布局、栅格布局；2.视觉表现长足进度。圆角、阴影和渐变、transform变换、filter滤镜和混合模式、animation动画；
 
 ### 第二章 需提前了解的术语和概念
@@ -51,7 +51,7 @@
 
 #### 3.1.块级元素
 - 需要注意的是，块级元素和display为block的元素不是一个概念
-- <table>元素默认的display值是table，但是他们均是块级元素
+- `<table>`元素默认的display值是table，但是他们均是块级元素
 - 块级元素的基本特征，也就是一个水平流上只能单独显示一个元素，多个块级元素则换行显示
 - IE浏览器不支持伪元素的display值为list-item
 - 为什么list-item元素会出现项目符号：很多看似“理所当然”的现象背后，实际上可能有一整套的体系支撑；块级盒子就负责结构，内联盒子就负责内容；之所以list-item元素会出现项目符号是因为生成了一个附加的盒子，学名“标记盒子”，专门用来放圆点、数字这些项目符号；
@@ -125,7 +125,7 @@
 - vertical-align和line-height之间的关系：当字号大小不一样的两个文字在一起的时候，彼此就会发生上下位移，如果位移距离足够大，就会超过行高的限制，而导致出现意料之外的高度；常见的图片底部留有间隙的问题；间隙产生的三大元凶就是“幽灵空白节点”、line-height和vertical-align属性；要清楚该间隙，方法很多如下（1.图片块状化、2.容器line-height足够小、3.容器font-size足够小、4.图片设置其他vertical-align属性值）；text-align：justify声明可以帮助我们实现兼容的列表两端对齐效果；
 - 深入理解vertical-align线性类属性值：总结的一套基于20px图标对齐的处理技巧（1.图标高度和当前行高都是20px；2.图标标签里面永远有字符；3.图标CSS不使用overflow：hidden保证基线为里面字符的基线，但是让里面潜在的字符不可见）；line-height和vertical-align：middle实现的多行文本或者图片的垂直居中全部都是“近似垂直居中”，原因与vertical-align：middle的定义有关；vertical-align：middle可以让内联元素的真正意义上的垂直中心位置和字符x的交叉点对齐；
 - 深入理解vertical-align文本类属性值：所谓“父级内容区域”指的就是在父级元素当前font-size和font-family下应有的内容区域大小；文本类属性值为什么会有这样糟糕的际遇呢（1.使用场景匮乏；2.文本类垂直对齐理解成本高；3.内容区域不直观且易变）
-- 简单了解vertical-align上标下标类属性：vertical-align上标下标类属性值指的是sub和super两个值，分别表示下标和上标；在HTML代码中，两个标签语义就是下标和上标，分别是上标<sup>和下标<sub>；vertical-align上标下标类属性值并不会改变当前元素的文字大小，千万不要被HTML标签中的<sup>和<sub>误导，因为这两个HTML标签默认font-size是smaller；
+- 简单了解vertical-align上标下标类属性：vertical-align上标下标类属性值指的是sub和super两个值，分别表示下标和上标；在HTML代码中，两个标签语义就是下标和上标，分别是上标`<sup>`和下标`<sub>`；vertical-align上标下标类属性值并不会改变当前元素的文字大小，千万不要被HTML标签中的`<sup>`和`<sub>`误导，因为这两个HTML标签默认font-size是smaller；
 - 无处不在的vertical-align：对于内联元素，如果大家遇到不太好理解的现象，请一定要意识到，有个“幽灵空白节点”以及无处不在的vertical-align属性；vertical-align属性值的理解可以说是CSS世界中的最难点；vertical-align各类属性值不存在相互冲突的情况，虽然某个vertical-align属性值确实影响其他元素的表现，但是这种作用并不是直接的；
 - 基于vertical-align属性的水平垂直居中：使用纯CSS实现大小不固定的弹框永远居中的效果；相比传统的JavaScript定位的方法的优点（1.节省了很多无谓的定位的JavaScript代码，也不需要浏览器resize事件之类的处理；2.性能更改、渲染速度更快，毕竟浏览器内置CSS的即时渲染显然比JavaScript的处理要更好；3.可以非常灵活控制垂直居中的比例；4.容器设置overflow：auto可以实现弹框高度超过一屏时依然能看见屏幕外的内容，传统实现方法则比较尴尬）
 
@@ -143,7 +143,7 @@
 - 成事不足败事有余的clear：clear属性只有块级元素才有效；::after等伪元素默认都是内联水平，借助伪元素清除浮动影响时需要设置display属性值；
 
 #### 6.3.css世界的结界-BFC
-- BFC的定义：BFC全称block formatting context，中文为“块级格式化上下文”；表现原则：如果一个元素具有BFC，内部子元素再怎么翻江倒海、翻云覆雨，都不会影响外部的元素；BFC元素是不可能发生margin重叠的。BFC元素也可以用来清除浮动的影响；什么时候会触发BFC，常见情况（<html>根元素；float的值不为none；overflow的值为auto、scroll或hidden；display的值为table-cell、table-caption和inline-block中的任何一个；position的值不为relative和static；）
+- BFC的定义：BFC全称block formatting context，中文为“块级格式化上下文”；表现原则：如果一个元素具有BFC，内部子元素再怎么翻江倒海、翻云覆雨，都不会影响外部的元素；BFC元素是不可能发生margin重叠的。BFC元素也可以用来清除浮动的影响；什么时候会触发BFC，常见情况（`<html>`根元素；float的值不为none；overflow的值为auto、scroll或hidden；display的值为table-cell、table-caption和inline-block中的任何一个；position的值不为relative和static；）
 - BFC与流体布局：BFC的结界特性最重要的用途其实不是去margin重叠或者是清除float影响，而是实现更健壮、更智能的自适应布局；和基于纯流体特性实现的两栏或多栏自适应布局相比，基于BFC特性的自适应布局有如下优点：自适应内容由于封闭而更健壮，容错性更强；自适应内容自动填满浮动以外区域，无需关心浮动元素宽度，可以整站大规模应用；单元格有一个非常神奇的特性，就是宽度设置的再大，实际宽度也不会超过表格容器的宽度；提炼出两套IE7及以上版本浏览器适配的自适应解决方案：1、借助overflow属性；2.融合display:table-cell和display:inline-block；这两种基于BFC的自适应方案均支持无限嵌套，因此，多栏自适应可以通过嵌套方式实现；
 
 #### 6.4.最佳结界overflow
@@ -151,14 +151,14 @@
 - 一般使用overflow：hidden，利用BFC的“结界”特性彻底解决浮动对外部或兄弟元素的影响
 - overflow剪裁界线border box：一个很经典的不兼容问题，即Chrome浏览器下，如果容器可滚动（假设是垂直滚动），则padding-bottom也算在滚动尺寸之内，IE和Firfox浏览器忽略padding-bottom；实际项目开发的时候，要尽量避免滚动容器设置padding-bottom值，除了样式表现不一致外，还会导致scrollHeight值不一样；
 - 了解overflow-x和overflow-y：overflow-x和overflow-y分别表示单独控制水平或垂直方向上的剪裁规则；除非overflow-x和overflow-y的属性值都是visible，否则visible会当成auto来解析；换句话说，永远不可能实现一个方向溢出剪裁或滚动，另一个方向内容溢出显示的效果；
-- overflow与滚动条：HTML中有两个标签式默认可以产生滚动条的，一个是根元素<html>，一个是文本域<textarea>；希望实现一个表格头固定、表格体可以滚动的效果，常见的实现方法是使用双<table>，表格头是一个独立的<table>,主体是一个独立的<table>元素，放在一个overflow:auto的<div>元素中；对齐问题的两种解决方法（1.<table>元素使用固定的宽度值，但是距离右侧留有17px的间隙；2.表格的最后一列不设定宽度(文字最好左对齐)，前面每一列都定死宽度；）
+- overflow与滚动条：HTML中有两个标签式默认可以产生滚动条的，一个是根元素`<html>`，一个是文本域`<textarea>`；希望实现一个表格头固定、表格体可以滚动的效果，常见的实现方法是使用双`<table>`，表格头是一个独立的`<table>`,主体是一个独立的`<table>`元素，放在一个overflow:auto的`<div>`元素中；对齐问题的两种解决方法（1.`<table>`元素使用固定的宽度值，但是距离右侧留有17px的间隙；2.表格的最后一列不设定宽度(文字最好左对齐)，前面每一列都定死宽度；）
 - 依赖overflow的样式表现：有一种效果离不开overflow:hidden声明，即单行文字溢出点点点效果
-- overflow与锚点定位：锚点定位行为的触发条件（1.URL地址中的锚链与锚点处于focus状态；2.可focus的锚点元素处于focus状态）；一般实现返回顶部效果都是使用这样的HTML：<a href="#">返回顶部</a>；“focus锚点定位指的是类似链接或者按钮、输入框等可以被focus的元素被focus时发生的页面重定位现象”；锚点定位行为的发生，本质上是通过改变容器滚动高度或者宽度来实现的；
+- overflow与锚点定位：锚点定位行为的触发条件（1.URL地址中的锚链与锚点处于focus状态；2.可focus的锚点元素处于focus状态）；一般实现返回顶部效果都是使用这样的HTML：`<a href="#">返回顶部</a>`；“focus锚点定位指的是类似链接或者按钮、输入框等可以被focus的元素被focus时发生的页面重定位现象”；锚点定位行为的发生，本质上是通过改变容器滚动高度或者宽度来实现的；
 
 #### 6.5.float的兄弟position:absolute
 - 当absolute和float同时存在的时候，float属性是无任何效果的
 - absolute的包含块：普通元素的百分比宽度是相对于父元素的content box宽度计算的，而绝对定位元素的宽度是相对于第一个position不为static的祖先元素计算的；内联元素的“包含块”是由“生成的”前后内联盒子决定的，与里面的内联盒子细节没有任何关系；跨行的兼容性问题在于规范对此行为并未定义，导致浏览器在实现上各有差异。主要差异在于，Firefox浏览器的“包含块”仅覆盖第一行，而IE和Chrome浏览器“包含块”的表现完全符合定义，由第一行开头和最后一行结尾的内联盒子共同决定；
-- 具有相对特性的无依赖absolute绝对定位一个绝对定位元素，没有任何left/top/right/bottom属性设置，并且其祖先元素全部都是非定位元素，其位置还在当前位置，不是在浏览器左上方；“无依赖绝对定位”的强大之处（1.各类图标定位；2.超越常规布局的排版；3.下拉列表的定位；4.占位符效果模拟；比较好的做法是使用<label>标签和输入框关联并覆盖在输入框上面，好处是点击占位文字输入框天然focus，并且不会污染输入框的value）
+- 具有相对特性的无依赖absolute绝对定位一个绝对定位元素，没有任何left/top/right/bottom属性设置，并且其祖先元素全部都是非定位元素，其位置还在当前位置，不是在浏览器左上方；“无依赖绝对定位”的强大之处（1.各类图标定位；2.超越常规布局的排版；3.下拉列表的定位；4.占位符效果模拟；比较好的做法是使用`<label>`标签和输入框关联并覆盖在输入框上面，好处是点击占位文字输入框天然focus，并且不会污染输入框的value）
 - absolute与text-align：出人意料，text-align居然可以改变absolute元素的位置；本质上是“幽灵空白节点”和“无依赖绝对定位”共同作用的结果；设置height:0同时overflow:hidden，那岂不是里面所有元素都被剪裁看不见啦？普通元素确实会如此，但是对于absolute绝对定位以及fixed固定定位元素，规则要更复杂；
 
 #### 6.6.absolute与overflow
@@ -173,7 +173,7 @@
 
 #### 6.8.absolute的流体特性
 - 当absolute遇到left/top/right/bottom属性：当absolu变成绝对定位元素te遇到left/top/right/bottom属性的时候，absolute元素才真正
-- absolute的流体特性：实际上，绝对定位元素也具有类似的流体特性，当然不是默认就有的，而是在特定属性下才具有，条件是“对立方向同时发生定位的时候”；设置了对立定位属性的绝对定位元素的表现神似普通的<div>元素，无论设置padding还是margin，其占据的空间一致不变，变化的就是content box的尺寸，这就是典型的流体表现特性；
+- absolute的流体特性：实际上，绝对定位元素也具有类似的流体特性，当然不是默认就有的，而是在特定属性下才具有，条件是“对立方向同时发生定位的时候”；设置了对立定位属性的绝对定位元素的表现神似普通的`<div>`元素，无论设置padding还是margin，其占据的空间一致不变，变化的就是content box的尺寸，这就是典型的流体表现特性；
 - absolute的`margin：auto`居中：当绝对定位元素处于流体状态的时候，各个盒模型相关属性的解析和普通流体元素都是一模一样的，margin负值可以让元素的尺寸更大，并且可以使用margin：auto让绝对定位元素保持居中；区别在于，绝对定位元素margin：auto居中从IE8浏览器开始支持，而普通元素的margin：auto居中很早就支持了；如果绝对定位元素的尺寸是已知了，没有必要使用transform，百分比transform会让ios微信闪退，其实首推的方法就是利用绝对定位元素的流体特性和margin：auto的自动分配特性实现居中；
 
 #### 6.9.position:relative才是大哥
@@ -183,7 +183,7 @@
 
 #### 6.10.强悍的position:fixed固定定位
 - 固定定位之所以这么强悍，根本原因是其“包含块”和其他元素不一样
-- position：fixed不一样的包含块：position：fixed固定定位元素的“包含块”是根元素，我们可以将其近似看成<html>元素。换句话说，唯一可以限制固定定位元素的就是<html>根元素
+- position：fixed不一样的包含块：position：fixed固定定位元素的“包含块”是根元素，我们可以将其近似看成`<html>`元素。换句话说，唯一可以限制固定定位元素的就是`<html>`根元素
 - position：fixed的absolute模拟：有时候我们希望元素既有不跟随滚动的固定定位效果，又能被定位元素限制和精准定位，可以使用position：absolute进行模拟。原理很简单：页面的滚动使用普通元素替代，此时滚动元素之外的其他元素自然就有了“固定定位”的效果
 - position：fixed与背景锁定：蒙层弹窗，其中黑色半透明全屏覆盖的蒙层基本上都是使用position：fixed定位实现的。缺点：蒙层无法覆盖浏览器右侧的滚动栏，并且鼠标滚动的时候后面的背景内容依然可以被滚动；如果希望背景被锁定，可以借鉴“absolute模拟fixed定位”的思路，让页面滚动条由内部的普通元素产生即可；移动端项目，阻止touchmove事件的默认行为可以防止滚动；桌面端项目，可以让根元素直接overflow：hidden；
 
@@ -207,7 +207,7 @@
 
 #### 7.5.深入了解层叠上下文
 - 层叠上下文的特性：层叠上下文的层叠水平要比普通元素高；层叠上下文可以阻断元素的混合模式；层叠上下文可以嵌套，内部层叠上下文及其所有子元素均受制于外部的“层叠上下文”；每个层叠上下文和兄弟元素独立。当进行层叠变化或渲染的时候，只需要考虑后代元素；每个层叠上下文是自成体系的。当元素发生层叠的时候，整个元素被认为是在父层叠上下文的层叠顺序中；
-- 层叠上下文的创建：1.根层叠上下文指的是页面根元素，可以看成是<html>元素；2.对于position值为relative/absolute以及Firefox/IE浏览器（不包括Chrome浏览器）下含有position：fixed声明的定位元素，当其z-index值不是auto的时候，会创建层叠上下文；差别就在于z-index：auto所在的<div>元素是一个普通定位元素
+- 层叠上下文的创建：1.根层叠上下文指的是页面根元素，可以看成是`<html>`元素；2.对于position值为relative/absolute以及Firefox/IE浏览器（不包括Chrome浏览器）下含有position：fixed声明的定位元素，当其z-index值不是auto的时候，会创建层叠上下文；差别就在于z-index：auto所在的`<div>`元素是一个普通定位元素
 - 层叠上下文与层叠顺序：元素一旦成为定位元素，其z-index就会自动生效，此时其z-index就是默认的auto，也就是0级别，根据上面的层叠顺序表，就会覆盖inline或block或float元素；opacity的值不是1的时候，是具有层叠上下文的，层叠顺序是z-index：auto级别，跟没有z-index值得absolute绝对定位元素是平起平坐的；
 
 #### 7.6.z-index负值深入理解
@@ -255,3 +255,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1B9N5zFObIq4NU4QpSM5dZQ(提取码：lp46)](https://pan.baidu.com/s/1B9N5zFObIq4NU4QpSM5dZQ)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《CSS世界》_张鑫旭.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/V5R16yPmaYOMqGRAv82jkX4KDe175w771mwrbx6pNgznl9VZPLJQyEBodb89mqoO)

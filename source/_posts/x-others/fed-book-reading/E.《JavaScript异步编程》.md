@@ -163,3 +163,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1myOqz7WNXeS9pwm-ovmMVg(提取码：vtzc)](https://pan.baidu.com/s/1myOqz7WNXeS9pwm-ovmMVg)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《JavaScript异步编程》_Trevor Burnham_许青松.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/XOnaYG1qlM7amvGYerDZOy9JVnXL40BmzOwBkp1NKxoRdb86P2Q5AzgEj9vE5rDo)

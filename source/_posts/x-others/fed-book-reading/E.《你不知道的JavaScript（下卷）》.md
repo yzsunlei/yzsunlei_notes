@@ -314,3 +314,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1ei5ya29OlvFPlMV53I8ZXA(提取码：dcqo)](https://pan.baidu.com/s/1ei5ya29OlvFPlMV53I8ZXA)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《你不知道的JavaScript（下卷）》_Kyle_Simpson_单业.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/kQX7yD4MVoN52PDAnlRdzK6qvg8XEwbYO53ZJjBb7rO4ypxGa9LeQm1kYng9YzK5)

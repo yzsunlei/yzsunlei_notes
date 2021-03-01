@@ -164,3 +164,5 @@ Cordova、以及基于 Apache Cordova 衍生的lnoic等；2、跨平台的语言
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1G-FfptnZAJkCTV6cEzn9Iw(提取码：v1j8)](https://pan.baidu.com/s/1G-FfptnZAJkCTV6cEzn9Iw)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《React_Native移动开发实战》_袁林_201707.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw2QV93BNn2r6ljVPO1mX9ad4JZpzZn1RbeE)

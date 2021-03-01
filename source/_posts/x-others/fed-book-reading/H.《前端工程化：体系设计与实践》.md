@@ -49,3 +49,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/11FE4WpvhASeljLS0HS_lOg(提取码：k38h)](https://pan.baidu.com/s/11FE4WpvhASeljLS0HS_lOg)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《前端工程化：体系设计与实践》.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNp6yWAp4aGOkJmYQrLbP7e2glqxl9qNPeX)

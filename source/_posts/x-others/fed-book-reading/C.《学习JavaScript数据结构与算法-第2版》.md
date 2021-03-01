@@ -57,3 +57,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1LI1mf4u374uaDa3e2AvCUw（提取码：c1ez）](https://pan.baidu.com/s/1LI1mf4u374uaDa3e2AvCUw)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《学习JavaScript数据结构与算法（第2版）》_ Loiane Groner_邓钢_201709.svg)
+- 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZN1qWQA1xO54nlvZq296YodejLXVJE5eAd)
