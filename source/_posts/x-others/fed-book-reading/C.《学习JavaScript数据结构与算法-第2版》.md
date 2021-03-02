@@ -1,8 +1,8 @@
 ﻿## 《学习JavaScript数据结构与算法（第2版）》精读笔记
 
 ### 写在前面
-- 书籍介绍：
-- 我的简评：
+- 书籍介绍：本书讨论了数组、栈、队列、链表、集合、字典、散列表、树、图等数据结构，之后探讨了各种排序和搜索算法，包括冒泡排序、选择排序、插入排序、归并排序、快速排序、堆排序、计数排序、桶排序、基数排序、顺序搜索、二分搜索，然后介绍了动态规划和贪心算法等常用的高级算法以及函数式编程，最后还介绍了如何计算算法的复杂度。
+- 我的简评：数据结构和算法知识可以说是编程的通识，不管学习哪门编程语言，理解好数据结构，会一些基本的算法，才算入门。并且深入数据结构和算法，才能在编程的路上走得更高、更远。
 - ！！福利：文末有pdf书籍、笔记思维导图、随书代码打包下载地址哦
 
 #### 数据结构
@@ -57,5 +57,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1LI1mf4u374uaDa3e2AvCUw（提取码：c1ez）](https://pan.baidu.com/s/1LI1mf4u374uaDa3e2AvCUw)
-- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《学习JavaScript数据结构与算法（第2版）》_ Loiane Groner_邓钢_201709.svg)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《学习JavaScript数据结构与算法（第2版）》_Loiane_Groner_邓钢_201709.svg)
 - 得到电子书地址：[点击阅读](https://www.dedao.cn/eBook/pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZN1qWQA1xO54nlvZq296YodejLXVJE5eAd)

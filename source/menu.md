@@ -243,7 +243,7 @@
 
 - [E.《图解HTTP》](/x-others/fed-book-reading/E.《图解HTTP》/index.html)
 
-- [E.《JavaScript-ES6函数式编程入门经典》](/x-others/fed-book-reading/E.《JavaScript-ES6函数式编程入门经典》/index
+- [E.《JavaScript_ES6函数式编程入门经典》](/x-others/fed-book-reading/E.《JavaScript_ES6函数式编程入门经典》/index.html)
 
 - [E.《JavaScript设计模式与开发实践》](/x-others/fed-book-reading/E.《JavaScript设计模式与开发实践》/index.html)
 
@@ -252,6 +252,8 @@
 - [G.《React进阶之路》](/x-others/fed-book-reading/G.《React进阶之路》/index.html)
 
 - [H.《前端工程化：体系设计与实践》](/x-others/fed-book-reading/H.《前端工程化：体系设计与实践》/index.html)
+
+- [H.《深入浅出Webpack》](/x-others/fed-book-reading/H.《深入浅出Webpack》/index.html)
 
 - [J.《React_Native精解与实战》](/x-others/fed-book-reading/J.《React_Native精解与实战》/index.html)
 

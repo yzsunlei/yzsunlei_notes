@@ -240,7 +240,7 @@
 
 ### 第13章 JavaScriptMVC类库
 - JavaScriptMVC（JMVC）是一个基于jQuery的开源JavaScript框架。它基本上就是一个完整的前端开发框架，将一些实用的测试工具、依赖关系管理、文档和许多非常有用的jQuery插件都打包在一起了
-- JavaScriptMVC的$.Class(基于JavaScript的类系统)、$.Model（传统的模型层）、$.View（客户端模板系统）、$.Controller（jQuery的widget工厂）
+- JavaScriptMVC的`$.Class`(基于JavaScript的类系统)、`$.Model（`传统的模型层）、`$.View`（客户端模板系统）、`$.Controller`（jQuery的widget工厂）
 
 #### 模型
 - JavaScriptMVC的模型和它的插件提供了很多组织模型数据的工具，如校验、关联、列表等。但核心功能集中在服务封装、类型转换和事件上
@@ -250,5 +250,5 @@
 
 ### 写在后面
 - pdf书籍、笔记思维导图、随书代码打包下载地址：[https://pan.baidu.com/s/1CBWzkbFHsHvlR4nkApOGwQ(提取码：c8qy)](https://pan.baidu.com/s/1CBWzkbFHsHvlR4nkApOGwQ)
-- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《基于MVC的JavaScript_Web富应用开发》_Alex MacCaw_李晶等.svg)
+- 思维导图在线查看：[点击打开](/assets/attachment/fed-book/《基于MVC的JavaScript_Web富应用开发》_Alex_MacCaw_李晶等.svg)
 - 得到电子书地址：无
