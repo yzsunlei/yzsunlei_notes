@@ -273,6 +273,8 @@
 
 - [L.《Web前端黑客技术揭秘》](/x-others/fed-book-reading/L.《Web前端黑客技术揭秘》/index.html)
 
+- [L.《现代前端技术解析》_张成文](/x-others/fed-book-reading/L.《现代前端技术解析》/index.html)
+
 ## 经管书籍笔记
 
 - [01.《把时间当作朋友》_李笑来](/x-others/busi-book-reading/01.《把时间当作朋友》_李笑来/index.html)
