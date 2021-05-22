@@ -1,4 +1,70 @@
-* [首页](/index.html)
+# 前端基础
+
+## 数据结构
+
+- [列表list](/x-basic/data-structure/01.list/index.html)
+
+- [队列queue](/x-basic/data-structure/02.queue/index.html)
+
+- [堆栈stack](/x-basic/data-structure/03.stack/index.html)
+
+- [链表](/x-basic/data-structure/04.linkedlist/index.html)
+
+- [字典dictionary](/x-basic/data-structure/05.dictionary/index.html)
+
+- [哈希表hashtable](/x-basic/data-structure/06.hashtable/index.html)
+
+- [集合set](/x-basic/data-structure/07.set/index.html)
+
+- [树bst](/x-basic/data-structure/08.bst/index.html)
+
+- [图graph](/x-basic/data-structure/09.graph/index.html)
+
+## 基本算法
+
+- [基础算法 - 阶乘](/x-basic/great-algorithms/1.1.jiecheng/index.html)
+
+- [基础算法 - 斐波那契数](/x-basic/great-algorithms/1.2.feibonaqishu/index.html)
+
+- [基础算法 - 素数检测](/x-basic/great-algorithms/1.3.sushu/index.html)
+
+- [基础算法 - 最大公约数算法(GCD)](/x-basic/great-algorithms/1.4.gcd/index.html)
+
+- [基础算法 - 最小公倍数 (LCM)](/x-basic/great-algorithms/1.5.lcm/index.html)
+
+- [基础算法 - 杨辉三角形](/x-basic/great-algorithms/1.6.triangle/index.html)
+
+- [基础算法 - 整数拆分](/x-basic/great-algorithms/1.7.zhengshuchaifen/index.html)
+
+- [基础算法 - 字符串快速查找](/x-basic/great-algorithms/1.8.findsubstr/index.html)
+
+- [基础算法 - 最长公共子串](/x-basic/great-algorithms/2.1.bubble-sort/index.html)
+
+- [排序算法 - 选择排序 Selection Sort](/x-basic/great-algorithms/2.2.selection-sort/index.html)
+
+- [排序算法 - 插入排序 Insertion Sort](/x-basic/great-algorithms/2.3.insertion-sort/index.html)
+
+- [排序算法 - 希尔排序 Shell Sort](/x-basic/great-algorithms/2.4.shell-sort/index.html)
+
+- [排序算法 - 归并排序 Merge Sort](/x-basic/great-algorithms/2.5.merge-sort/index.html)
+
+- [排序算法 - 堆排序 Heap Sort](/x-basic/great-algorithms/2.6.heap-sort/index.html)
+
+- [排序算法 - 快速排序 Quick Sort](/x-basic/great-algorithms/2.7.quick-sort/index.html)
+
+- [查找/搜索算法 - 线性查找](/x-basic/great-algorithms/3.1.linear-search/index.html)
+
+- [查找/搜索算法 - 二分查找](/x-basic/great-algorithms/3.2.binary-search/index.html)
+
+- [查找/搜索算法 - 跳转查找](/x-basic/great-algorithms/3.3.tiaozhuanchazhao/index.html)
+
+- [查找/搜索算法 - 插值查找](/x-basic/great-algorithms/3.4.chazhichazhao/index.html)
+
+<!-- ## JavaScript核心 -->
+
+<!-- ## 玩转CSS -->
+
+<!-- ## 前端导文 -->
 
 # 前端进阶
 
@@ -103,7 +169,7 @@
 - [9.教你如何自己手撸一个plugin](/x-advance/javascript-webpack/9.教你如何自己手撸一个plugin/index.html)
 
 
-## 异步编程
+<!-- ## 异步编程 -->
 
 ## Vue源码学习
 
@@ -137,75 +203,8 @@
 
 - [3.4.Vuex中辅助函数实现说明](/x-advance/vue-source/3.4.Vuex中辅助函数实现说明/index.html)
 
-## React源码学习
+<!-- ## React源码学习 -->
 
-# 前端基础
-
-## 数据结构
-
-- [列表list](/x-basic/data-structure/01.list/index.html)
-
-- [队列queue](/x-basic/data-structure/02.queue/index.html)
-
-- [堆栈stack](/x-basic/data-structure/03.stack/index.html)
-
-- [链表](/x-basic/data-structure/04.linkedlist/index.html)
-
-- [字典dictionary](/x-basic/data-structure/05.dictionary/index.html)
-
-- [哈希表hashtable](/x-basic/data-structure/06.hashtable/index.html)
-
-- [集合set](/x-basic/data-structure/07.set/index.html)
-
-- [树bst](/x-basic/data-structure/08.bst/index.html)
-
-- [图graph](/x-basic/data-structure/09.graph/index.html)
-
-## 基本算法
-
-- [基础算法 - 阶乘](/x-basic/great-algorithms/1.1.jiecheng/index.html)
-
-- [基础算法 - 斐波那契数](/x-basic/great-algorithms/1.2.feibonaqishu/index.html)
-
-- [基础算法 - 素数检测](/x-basic/great-algorithms/1.3.sushu/index.html)
-
-- [基础算法 - 最大公约数算法(GCD)](/x-basic/great-algorithms/1.4.gcd/index.html)
-
-- [基础算法 - 最小公倍数 (LCM)](/x-basic/great-algorithms/1.5.lcm/index.html)
-
-- [基础算法 - 杨辉三角形](/x-basic/great-algorithms/1.6.triangle/index.html)
-
-- [基础算法 - 整数拆分](/x-basic/great-algorithms/1.7.zhengshuchaifen/index.html)
-
-- [基础算法 - 字符串快速查找](/x-basic/great-algorithms/1.8.findsubstr/index.html)
-
-- [基础算法 - 最长公共子串](/x-basic/great-algorithms/2.1.bubble-sort/index.html)
-
-- [排序算法 - 选择排序 Selection Sort](/x-basic/great-algorithms/2.2.selection-sort/index.html)
-
-- [排序算法 - 插入排序 Insertion Sort](/x-basic/great-algorithms/2.3.insertion-sort/index.html)
-
-- [排序算法 - 希尔排序 Shell Sort](/x-basic/great-algorithms/2.4.shell-sort/index.html)
-
-- [排序算法 - 归并排序 Merge Sort](/x-basic/great-algorithms/2.5.merge-sort/index.html)
-
-- [排序算法 - 堆排序 Heap Sort](/x-basic/great-algorithms/2.6.heap-sort/index.html)
-
-- [排序算法 - 快速排序 Quick Sort](/x-basic/great-algorithms/2.7.quick-sort/index.html)
-
-- [查找/搜索算法 - 线性查找](/x-basic/great-algorithms/3.1.linear-search/index.html)
-
-- [查找/搜索算法 - 二分查找](/x-basic/great-algorithms/3.2.binary-search/index.html)
-
-- [查找/搜索算法 - 跳转查找](/x-basic/great-algorithms/3.3.tiaozhuanchazhao/index.html)
-
-- [查找/搜索算法 - 插值查找](/x-basic/great-algorithms/3.4.chazhichazhao/index.html)
-
-## JavaScript核心
-
-## 玩转CSS
-
-## 前端导文
 
 # 前端前沿
 
@@ -213,15 +212,19 @@
 
 - [00.Serverless学习资料整理](/x-forward/serverless-usage/00.Serverless学习资料/index.html)
 
-## 前端智能
+## DevOps
 
-# 前端之外
+- [00.DevOps学习资料整理](/x-forward/devops-usage/00.DevOps学习资料/index.html)
 
-## 玩转Docker
+<!-- ## 前端智能 -->
 
-## 玩转云服务器
+<!-- # 前端之外 -->
 
-# 其他
+<!-- ## 玩转Docker -->
+
+<!-- ## 玩转云服务器 -->
+
+# 阅读笔记
 
 ## 前端书籍笔记
 
