@@ -10,8 +10,7 @@
     "start": "npm run server",
     "server": "hexo server",
     "build": "hexo generate",
-    "build:alioss": "node deployToAliyun.js",
-    "build:tencentCos": "node deployTotencentCos.js"
+    "deploy": "node deployTotencentCos.js"
   },
   "dependencies": {
     "@iktakahiro/markdown-it-katex": "^3.1.0",
