@@ -2,63 +2,63 @@
 
 ## 数据结构
 
-- [列表list](/x-basic/data-structure/01.list/index.html)
+- [列表list](/x-basic/1.data-structure/01.list/index.html)
 
-- [队列queue](/x-basic/data-structure/02.queue/index.html)
+- [队列queue](/x-basic/1.data-structure/02.queue/index.html)
 
-- [堆栈stack](/x-basic/data-structure/03.stack/index.html)
+- [堆栈stack](/x-basic/1.data-structure/03.stack/index.html)
 
-- [链表](/x-basic/data-structure/04.linkedlist/index.html)
+- [链表](/x-basic/1.data-structure/04.linkedlist/index.html)
 
-- [字典dictionary](/x-basic/data-structure/05.dictionary/index.html)
+- [字典dictionary](/x-basic/1.data-structure/05.dictionary/index.html)
 
-- [哈希表hashtable](/x-basic/data-structure/06.hashtable/index.html)
+- [哈希表hashtable](/x-basic/1.data-structure/06.hashtable/index.html)
 
-- [集合set](/x-basic/data-structure/07.set/index.html)
+- [集合set](/x-basic/1.data-structure/07.set/index.html)
 
-- [树bst](/x-basic/data-structure/08.bst/index.html)
+- [树bst](/x-basic/1.data-structure/08.bst/index.html)
 
-- [图graph](/x-basic/data-structure/09.graph/index.html)
+- [图graph](/x-basic/1.data-structure/09.graph/index.html)
 
 ## 基本算法
 
-- [基础算法 - 阶乘](/x-basic/great-algorithms/1.1.jiecheng/index.html)
+- [基础算法 - 阶乘](/x-basic/2.great-algorithms/1.1.jiecheng/index.html)
 
-- [基础算法 - 斐波那契数](/x-basic/great-algorithms/1.2.feibonaqishu/index.html)
+- [基础算法 - 斐波那契数](/x-basic/2.great-algorithms/1.2.feibonaqishu/index.html)
 
-- [基础算法 - 素数检测](/x-basic/great-algorithms/1.3.sushu/index.html)
+- [基础算法 - 素数检测](/x-basic/2.great-algorithms/1.3.sushu/index.html)
 
-- [基础算法 - 最大公约数算法(GCD)](/x-basic/great-algorithms/1.4.gcd/index.html)
+- [基础算法 - 最大公约数算法(GCD)](/x-basic/2.great-algorithms/1.4.gcd/index.html)
 
-- [基础算法 - 最小公倍数 (LCM)](/x-basic/great-algorithms/1.5.lcm/index.html)
+- [基础算法 - 最小公倍数 (LCM)](/x-basic/2.great-algorithms/1.5.lcm/index.html)
 
-- [基础算法 - 杨辉三角形](/x-basic/great-algorithms/1.6.triangle/index.html)
+- [基础算法 - 杨辉三角形](/x-basic/2.great-algorithms/1.6.triangle/index.html)
 
-- [基础算法 - 整数拆分](/x-basic/great-algorithms/1.7.zhengshuchaifen/index.html)
+- [基础算法 - 整数拆分](/x-basic/2.great-algorithms/1.7.zhengshuchaifen/index.html)
 
-- [基础算法 - 字符串快速查找](/x-basic/great-algorithms/1.8.findsubstr/index.html)
+- [基础算法 - 字符串快速查找](/x-basic/2.great-algorithms/1.8.findsubstr/index.html)
 
-- [基础算法 - 最长公共子串](/x-basic/great-algorithms/2.1.bubble-sort/index.html)
+- [基础算法 - 最长公共子串](/x-basic/2.great-algorithms/2.1.bubble-sort/index.html)
 
-- [排序算法 - 选择排序 Selection Sort](/x-basic/great-algorithms/2.2.selection-sort/index.html)
+- [排序算法 - 选择排序 Selection Sort](/x-basic/2.great-algorithms/2.2.selection-sort/index.html)
 
-- [排序算法 - 插入排序 Insertion Sort](/x-basic/great-algorithms/2.3.insertion-sort/index.html)
+- [排序算法 - 插入排序 Insertion Sort](/x-basic/2.great-algorithms/2.3.insertion-sort/index.html)
 
-- [排序算法 - 希尔排序 Shell Sort](/x-basic/great-algorithms/2.4.shell-sort/index.html)
+- [排序算法 - 希尔排序 Shell Sort](/x-basic/2.great-algorithms/2.4.shell-sort/index.html)
 
-- [排序算法 - 归并排序 Merge Sort](/x-basic/great-algorithms/2.5.merge-sort/index.html)
+- [排序算法 - 归并排序 Merge Sort](/x-basic/2.great-algorithms/2.5.merge-sort/index.html)
 
-- [排序算法 - 堆排序 Heap Sort](/x-basic/great-algorithms/2.6.heap-sort/index.html)
+- [排序算法 - 堆排序 Heap Sort](/x-basic/2.great-algorithms/2.6.heap-sort/index.html)
 
-- [排序算法 - 快速排序 Quick Sort](/x-basic/great-algorithms/2.7.quick-sort/index.html)
+- [排序算法 - 快速排序 Quick Sort](/x-basic/2.great-algorithms/2.7.quick-sort/index.html)
 
-- [查找/搜索算法 - 线性查找](/x-basic/great-algorithms/3.1.linear-search/index.html)
+- [查找/搜索算法 - 线性查找](/x-basic/2.great-algorithms/3.1.linear-search/index.html)
 
-- [查找/搜索算法 - 二分查找](/x-basic/great-algorithms/3.2.binary-search/index.html)
+- [查找/搜索算法 - 二分查找](/x-basic/2.great-algorithms/3.2.binary-search/index.html)
 
-- [查找/搜索算法 - 跳转查找](/x-basic/great-algorithms/3.3.tiaozhuanchazhao/index.html)
+- [查找/搜索算法 - 跳转查找](/x-basic/2.great-algorithms/3.3.tiaozhuanchazhao/index.html)
 
-- [查找/搜索算法 - 插值查找](/x-basic/great-algorithms/3.4.chazhichazhao/index.html)
+- [查找/搜索算法 - 插值查找](/x-basic/2.great-algorithms/3.4.chazhichazhao/index.html)
 
 <!-- ## JavaScript核心 -->
 
@@ -66,107 +66,128 @@
 
 <!-- ## 前端导文 -->
 
+## 手写代码
+
+- [手写实现 - call方法](/x-basic/5.function-handwriting/01.call/index.html)
+
+- [手写实现 - apply方法](/x-basic/5.function-handwriting/02.apply/index.html)
+
+- [手写实现 - bind方法](/x-basic/5.function-handwriting/03.bind/index.html)
+
+- [手写实现 - new关键字](/x-basic/5.function-handwriting/04.new/index.html)
+
+- [手写实现 - debounce方法](/x-basic/5.function-handwriting/05.debounce/index.html)
+
+- [手写实现 - throttle方法](/x-basic/5.function-handwriting/07.throttle/index.html)
+
+- [手写实现 - unique方法](/x-basic/5.function-handwriting/08.unique/index.html)
+
+- [手写实现 - shallowCopy方法](/x-basic/5.function-handwriting/09.shallowCopy/index.html)
+
+- [手写实现 - deepCopy方法](/x-basic/5.function-handwriting/10.deepCopy/index.html)
+
+
 # 前端进阶
 
 ## JavaScript设计模式
 
-- [01.简单工厂模式](/x-advance/design-mode/01.easy-factory-pattern/index.html)
+- [01.简单工厂模式](/x-advance/6.design-mode/01.easy-factory-pattern/index.html)
 
-- [02.工厂方法模式](/x-advance/design-mode/02.factory-method-pattern/index.html)
+- [02.工厂方法模式](/x-advance/6.design-mode/02.factory-method-pattern/index.html)
 
-- [03.抽象工厂模式](/x-advance/design-mode/03.abstract-factory-pattern/index.html)
+- [03.抽象工厂模式](/x-advance/6.design-mode/03.abstract-factory-pattern/index.html)
 
-- [04.建造者模式](/x-advance/design-mode/04.builder-pattern/index.html)
+- [04.建造者模式](/x-advance/6.design-mode/04.builder-pattern/index.html)
 
-- [05.原型模式](/x-advance/design-mode/05.prototype-pattern/index.html)
+- [05.原型模式](/x-advance/6.design-mode/05.prototype-pattern/index.html)
 
-- [06.单例模式](/x-advance/design-mode/06.singleton-pattern/index.html)
+- [06.单例模式](/x-advance/6.design-mode/06.singleton-pattern/index.html)
 
-- [07.外观模式](/x-advance/design-mode/07.facade-pattern/index.html)
+- [07.外观模式](/x-advance/6.design-mode/07.facade-pattern/index.html)
 
-- [08.适配器模式](/x-advance/design-mode/08.adapter-pattern/index.html)
+- [08.适配器模式](/x-advance/6.design-mode/08.adapter-pattern/index.html)
 
-- [09.代理模式](/x-advance/design-mode/09.proxy-pattern/index.html)
+- [09.代理模式](/x-advance/6.design-mode/09.proxy-pattern/index.html)
 
-- [10.装饰者模式](/x-advance/design-mode/10.decorator-pattern/index.html)
+- [10.装饰者模式](/x-advance/6.design-mode/10.decorator-pattern/index.html)
 
-- [11.桥接模式](/x-advance/design-mode/11.bridge-pattern/index.html)
+- [11.桥接模式](/x-advance/6.design-mode/11.bridge-pattern/index.html)
 
-- [12.组合模式](/x-advance/design-mode/12.composite-pattern/index.html)
+- [12.组合模式](/x-advance/6.design-mode/12.composite-pattern/index.html)
 
-- [13.享元模式](/x-advance/design-mode/13.flyweight-pattern/index.html)
+- [13.享元模式](/x-advance/6.design-mode/13.flyweight-pattern/index.html)
 
-- [14.模板方法模式](/x-advance/design-mode/14.template-method-pattern/index.html)
+- [14.模板方法模式](/x-advance/6.design-mode/14.template-method-pattern/index.html)
 
-- [15.观察者模式](/x-advance/design-mode/15.observer-pattern/index.html)
+- [15.观察者模式](/x-advance/6.design-mode/15.observer-pattern/index.html)
 
-- [16.状态模式](/x-advance/design-mode/16.state-pattern/index.html)
+- [16.状态模式](/x-advance/6.design-mode/16.state-pattern/index.html)
 
-- [17.策略模式](/x-advance/design-mode/17.strategy-pattern/index.html)
+- [17.策略模式](/x-advance/6.design-mode/17.strategy-pattern/index.html)
 
-- [18.职责链模式](/x-advance/design-mode/18.chain-of-responsibility-pattern/index.html)
+- [18.职责链模式](/x-advance/6.design-mode/18.chain-of-responsibility-pattern/index.html)
 
-- [19.命令模式](/x-advance/design-mode/19.command-pattern/index.html)
+- [19.命令模式](/x-advance/6.design-mode/19.command-pattern/index.html)
 
-- [20.访问者模式](/x-advance/design-mode/20.visitor-pattern/index.html)
+- [20.访问者模式](/x-advance/6.design-mode/20.visitor-pattern/index.html)
 
-- [21.中介者模式](/x-advance/design-mode/21.mediator-pattern/index.html)
+- [21.中介者模式](/x-advance/6.design-mode/21.mediator-pattern/index.html)
 
-- [22.备忘录模式](/x-advance/design-mode/22.memento-pattern/index.html)
+- [22.备忘录模式](/x-advance/6.design-mode/22.memento-pattern/index.html)
 
-- [23.迭代器模式](/x-advance/design-mode/23.iterator-pattern/index.html)
+- [23.迭代器模式](/x-advance/6.design-mode/23.iterator-pattern/index.html)
 
-- [24.解释器模式](/x-advance/design-mode/24.interpreter-pattern/index.html)
+- [24.解释器模式](/x-advance/6.design-mode/24.interpreter-pattern/index.html)
 
-- [25.链模式](/x-advance/design-mode/25.chain-pattern/index.html)
+- [25.链模式](/x-advance/6.design-mode/25.chain-pattern/index.html)
 
-- [26.委托模式](/x-advance/design-mode/26.delegator-pattern/index.html)
+- [26.委托模式](/x-advance/6.design-mode/26.delegator-pattern/index.html)
 
-- [27.数据访问对象模式](/x-advance/design-mode/27.data-access-object-pattern/index.html)
+- [27.数据访问对象模式](/x-advance/6.design-mode/27.data-access-object-pattern/index.html)
 
-- [28.节流模式](/x-advance/design-mode/28.throttling-pattern/index.html)
+- [28.节流模式](/x-advance/6.design-mode/28.throttling-pattern/index.html)
 
-- [29.简单模板模式](/x-advance/design-mode/29.simple-template-pattern/index.html)
+- [29.简单模板模式](/x-advance/6.design-mode/29.simple-template-pattern/index.html)
 
-- [30.惰性模式](/x-advance/design-mode/30.inertia-pattern/index.html)
+- [30.惰性模式](/x-advance/6.design-mode/30.inertia-pattern/index.html)
 
-- [31.参与者模式](/x-advance/design-mode/31.actor-pattern/index.html)
+- [31.参与者模式](/x-advance/6.design-mode/31.actor-pattern/index.html)
 
-- [32.等待者模式](/x-advance/design-mode/32.waiting-pattern/index.html)
+- [32.等待者模式](/x-advance/6.design-mode/32.waiting-pattern/index.html)
 
-- [33.同步模块模式](/x-advance/design-mode/33.synchronous-module-pattern/index.html)
+- [33.同步模块模式](/x-advance/6.design-mode/33.synchronous-module-pattern/index.html)
 
-- [34.异步模块模式](/x-advance/design-mode/34.asynchronous-module-pattern/index.html)
+- [34.异步模块模式](/x-advance/6.design-mode/34.asynchronous-module-pattern/index.html)
 
-- [35.Widget模式](/x-advance/design-mode/35.widget-pattern/index.html)
+- [35.Widget模式](/x-advance/6.design-mode/35.widget-pattern/index.html)
 
-- [36.MVC模式](/x-advance/design-mode/36.mvc-pattern/index.html)
+- [36.MVC模式](/x-advance/6.design-mode/36.mvc-pattern/index.html)
 
-- [37.MVP模式](/x-advance/design-mode/37.mvp-pattern/index.html)
+- [37.MVP模式](/x-advance/6.design-mode/37.mvp-pattern/index.html)
 
-- [38.MVVM模式](/x-advance/design-mode/38.mvvm-pattern/index.html)
+- [38.MVVM模式](/x-advance/6.design-mode/38.mvvm-pattern/index.html)
 
 ## Webpack指北
 
-- [0.简介](/x-advance/javascript-webpack/README/index.html)
+- [0.简介](/x-advance/3.webpack-build-tool/README/index.html)
 
-- [1.漫谈前端模块化和构建工具](/x-advance/javascript-webpack/1.漫谈前端模块化和构建工具/index.html)
+- [1.漫谈前端模块化和构建工具](/x-advance/3.webpack-build-tool/1.漫谈前端模块化和构建工具/index.html)
 
-- [2.一篇文章看懂Webpack配置](/x-advance/javascript-webpack/2.一篇文章看懂Webpack配置/index.html)
+- [2.一篇文章看懂Webpack配置](/x-advance/3.webpack-build-tool/2.一篇文章看懂Webpack配置/index.html)
 
-- [3.前端工程师必会的Webpack配置实战（一）](/x-advance/javascript-webpack/3.前端工程师必会的Webpack配置实战（一）/index.html)
+- [3.前端工程师必会的Webpack配置实战（一）](/x-advance/3.webpack-build-tool/3.前端工程师必会的Webpack配置实战（一）/index.html)
 
-- [4.前端工程师必会的Webpack配置实战（二）](/x-advance/javascript-webpack/4.前端工程师必会的Webpack配置实战（二）/index.html)
+- [4.前端工程师必会的Webpack配置实战（二）](/x-advance/3.webpack-build-tool/4.前端工程师必会的Webpack配置实战（二）/index.html)
 
-- [5.来，一起深入Webpack工作原理](/x-advance/javascript-webpack/5.来，一起深入Webpack工作原理/index.html)
+- [5.来，一起深入Webpack工作原理](/x-advance/3.webpack-build-tool/5.来，一起深入Webpack工作原理/index.html)
 
-- [6.前端面试必考的Webpack优化技巧（一）](/x-advance/javascript-webpack/6.前端面试必考的Webpack优化技巧（一）/index.html)
+- [6.前端面试必考的Webpack优化技巧（一）](/x-advance/3.webpack-build-tool/6.前端面试必考的Webpack优化技巧（一）/index.html)
 
-- [7.前端面试必考的Webpack优化技巧（二）](/x-advance/javascript-webpack/7.前端面试必考的Webpack优化技巧（二）/index.html)
+- [7.前端面试必考的Webpack优化技巧（二）](/x-advance/3.webpack-build-tool/7.前端面试必考的Webpack优化技巧（二）/index.html)
 
-- [8.教你如何自己手撸一个loader](/x-advance/javascript-webpack/8.教你如何自己手撸一个loader/index.html)
+- [8.教你如何自己手撸一个loader](/x-advance/3.webpack-build-tool/8.教你如何自己手撸一个loader/index.html)
 
-- [9.教你如何自己手撸一个plugin](/x-advance/javascript-webpack/9.教你如何自己手撸一个plugin/index.html)
+- [9.教你如何自己手撸一个plugin](/x-advance/3.webpack-build-tool/9.教你如何自己手撸一个plugin/index.html)
 
 
 <!-- ## 异步编程 -->
