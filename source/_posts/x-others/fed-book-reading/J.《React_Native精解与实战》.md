@@ -96,7 +96,7 @@
 
 #### 5.3.Chrome中远程调试
 - 在 React Native 开发调试时，打开模拟器或真机设备上的开发者菜单，选择“ Debug JS Remotely ”后，本地的 Chrome 浏览器会自动打开一个 tab，URL 地址
-  为 http://localhost:8081/debugger-ui 
+  为 `http://localhost:8081/debugger-ui`
 
 #### 5.4.React Developer Tools工具
 - 树形结构查看

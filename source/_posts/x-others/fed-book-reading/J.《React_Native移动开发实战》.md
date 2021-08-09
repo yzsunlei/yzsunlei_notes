@@ -23,7 +23,7 @@ Cordova、以及基于 Apache Cordova 衍生的lnoic等；2、跨平台的语言
 - 搭建 React Native 开发环境有以下几个主要步骤：1、原生开发工具：iOS开发使用Xcode, Android开发使用 Android Studio and SDK Tools；2、Node.js：React Native 是借助 Node.js，即 JavaScript 运行时来创建 JavaScript 代码的；3、React Native：安装 React Native 命令行工具；4、其他辅助工具 ：代码编辑器 Nuclide、Chrome浏览器等
 
 #### 1.4.第一个React Native应用
-- React Native目录和文件的说明：tests： React Native工程单元测试文件夹；android：原生Android工程文件夹；ios：原生 iOS工程文件夹；node_modules：React Native工程依赖的第三方库；index.android.is：React Native工程Android App入口文件；index.ios.js：React Native工程iOS App入口文件；package.json：React Native工程配置文件，描述了工程的所有信息以及第三方库的依赖关系；
+- React Native目录和文件的说明：tests： React Native工程单元测试文件夹；android：原生Android工程文件夹；ios：原生 iOS工程文件夹；node_modules：React Native工程依赖的第三方库；`index.android.is`：React Native工程Android App入口文件；`index.ios.js`：React Native工程iOS App入口文件；package.json：React Native工程配置文件，描述了工程的所有信息以及第三方库的依赖关系；
 - 运行项目：`react-native run-ios --simulator “iPhone 7”`，`react-native run-android emulator-5 554`
 - 调试项目：真机调试时晃动设备就可以打开调试选项；iOS 模拟器快捷键：`command + D`；Android 模拟器快捷键：`command + M` 
 

@@ -53,8 +53,8 @@
 - 模块编译：每一个编译成功的模块都会将其文件路径作为索引缓存在Module._cache对象上；在编译的过程中，Node对获取的JavaScript文件内容进行头尾包装；(function(exports, require, module, __filename, __dirname) {\n, 在尾部添加了\n})；C/C++模块，Node调用process.dlopen()方法进行加载和执行；
 
 #### 2.3.核心模块
-- JavaScript核心模块的编译过程：C/C++文件放在Node项目的src目录下，JavaScript文件存放在lib目录下；编译程序需要将所有的JavaScript模块文件编译为C/C++代码；
-- C/C++核心模块的编译过程：Node在启动时，会生成一个全局变量process，并提供Binding()方法来协助内建模块
+- JavaScript核心模块的编译过程：`C/C++`文件放在Node项目的src目录下，JavaScript文件存放在lib目录下；编译程序需要将所有的JavaScript模块文件编译为`C/C++`代码；
+- C/C++核心模块的编译过程：Node在启动时，会生成一个全局变量process，并提供`Binding()`方法来协助内建模块
 
 #### 2.4.C/C++扩展模块
 - 说明：JavaScript的一个典型弱点就是位运算；*nix下通过g++/gcc等编译器编译为动态链接共享对象文件.so，Windows下则需要通过VisualC++的编译器编译为动态链接库文件.dll；
@@ -167,7 +167,7 @@
 #### 6.1.Buffer结构
 - 模块结构：Buffer是一个像Array的对象，但它主要用于操作对象
 - Buffer对象：`buf[10]`的元素值是一个0到255的随机值
-- Buffer内存分配：Buffer对象的内存分配不是在V8的堆内存中，而是在Node的C++层面实现内存的申请的；Node以8KB为界限来区分Buffer是大对象还是小对象；真正的内存是在Node的C++层面提供的，JavaScript层面只是使用它；
+- Buffer内存分配：Buffer对象的内存分配不是在V8的堆内存中，而是在Node的`C++`层面实现内存的申请的；Node以8KB为界限来区分Buffer是大对象还是小对象；真正的内存是在Node的`C++`层面提供的，JavaScript层面只是使用它；
 
 #### 6.2.Buffer的转换
 - 目前支持的字符串编码类型：ASCII、UTF-8、UTF-16LE/UCS-2、Base64、Binary、Hex

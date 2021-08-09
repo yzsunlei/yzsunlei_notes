@@ -83,7 +83,7 @@
 #### 4.1.认识CSS3
 - CSS中文意思是层叠样式表，是一种用来布局和美化网页的样式表语言
 - 什么是CSS3：1.选择器：新增的选择器可以减少多余的Class、ID或JavaScript的使用；2.盒模型：提供box-sizing属性来改变默认的CSS盒模型对元素宽高的计算方式；3.个性化字体：@font-face规则的引入允许开发者为网页指定在线字体，常见的一个用途是IconFont；4.自适应布局：提供calc函数在渲染时动态计算属性值，常用在自适应布局当中；5.还有很多其他激动人心的新特性，比如（圆角边框、字体阴影这种以前只能通过图片实现的效果；响应式布局Media Queries、弹性布局Flexbox、多列布局Multi-column Layout；媲美原生应用的过渡与动画效果；）
-- 移动Web的CSS3现状：如果想知道某个CSS3的属性在特定浏览器的支持情况，可以使用网站caniuse.com
+- 移动Web的CSS3现状：如果想知道某个CSS3的属性在特定浏览器的支持情况，可以使用网站`caniuse.com`
 - 用Modernizr检测浏览器是否支持CSS3：Modernizr，一个用于检测用户浏览器的HTML5与CSS3特性的JavaScript库；要实现浏览器动态特征检测，一般有如下两种思路（第一种使用JavaScript获取到User Agent，然后根据User Agent判断浏览器的版本，再根据浏览器的版本，来确定哪些属性是在当前浏览器里支持的。缺点是并不准确；Modernizr采用的思路是直接JavaScript里面使用指定属性，如果成功执行则说明支持；Modernizr提供另外一个重要功能，自定义特征检测。当浏览器是Internet Explore7时，Modernizr会添加“ie7”样式类名到HTML元素，并且在JavaScript里面调用Modernizr.ie7返回true；）
 
 #### 4.2.选择器

@@ -60,7 +60,7 @@
 - AJAX风险：Ajax简直就是前端黑客攻击中必用的技术模式；利用Ajax的攻击显得很诡异，无声无息；不是任何请求头都可以通过JavaScript进行设置的，W3C给出了一份头部黑名单；如果目标域不设置Access-Control-Allow-Origin，虽然浏览器会报权限错误的问题，但实际上隐私数已经被目标域的代码接收到了；默认情况下，这样的跨域无法带上目标域的会话（Cookies等），需要设置xhr实例的withCredentials属性为true（IE还不支持）；如果设置了Access-Control-Allow-Credentials为true，那么Access-Control-Allow-Origin就不能设置为*通配符，这也是浏览器为了安全进行的考虑；
 - 模拟用户发起浏览器请求：XMLHttpRequest对象就是一个非常方便的方式，可以模拟表单提交，它有异步与同步之分，差别在于XMLHttpRequest实例化的对象xhr的open方法的第三个参数，true表示异步，false表示同步，如果使用异步方式，就是Ajax；前端黑客攻击中，比如XSS经常需要发起各种请求（如盗取Cookies、蠕虫攻击等），上面的几种方式都是XSS攻击常用的，而最后一个表单自提交方式经常用于CSRF攻击中；
 - Cookie安全：Cookie是一个神奇的机制，同域内浏览器中发出的任何一个请求都会带上Cookie，无论请求什么资源，请求时，Cookie出现在请求头的Cookie字段中。服务端响应头的Set-Cookie字段可以添加、修改和删除Cookie，大多数情况下，客户端通过JavaScript也可以添加、修改和删除Cookie；Cookie经常被用来存储用户的会话信息，用户登录认证后的Session，之后同域内发出的请求都会带上认证后的会话信息，非常方便。攻击者就特别喜欢盗取Cookie，这相当于盗取了在目标网站上的用户权限；
-- 本地存储风险：本地存储的主要风险是被植入广告跟踪标志，有的想删都不一定能删除干净；广为人知的evercookie，还使用了以下存储（Silverlight的IsolatedStorage、PNG Cache、类似PNG Cache机制的还有HTTP Etags、Web Cache、Web History、window.name）；
+- 本地存储风险：本地存储的主要风险是被植入广告跟踪标志，有的想删都不一定能删除干净；广为人知的evercookie，还使用了以下存储（Silverlight的IsolatedStorage、PNG Cache、类似PNG Cache机制的还有`HTTP Etags`、`Web Cache`、`Web History`、`window.name`）；
 - e4x带来的混乱世界：对于JavaScript来说，当前只有Firefox支持E4X，这种技术是将XML作为JavaScript的对象；通过使用E4X技术，可以混淆JavaScript代码，甚至绕开一些过滤规则；
 - JavaScript函数劫持：JavaScript函数劫持很简单，一般情况下，只要在目标函数触发之前，重写这个函数即可；曾经的浏览器劫持document.write、document.writeln也同样是这样的方式；
 

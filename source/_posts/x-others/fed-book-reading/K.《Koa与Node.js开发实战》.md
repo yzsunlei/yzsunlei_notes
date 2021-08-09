@@ -13,7 +13,7 @@
 - 4. 解决问题的关键是非阻塞和异步 I/O 。
 - 5. Node.js使用了事件驱动、非阻塞式 I/O 模型，轻量又高效。
 - 6. 事件驱动的异步 I/O 模型使得 Node.js 非常适合用来处理 I/O 密集型应用
-- 7. 例如 Web 聊天室（ Socket.io ）、 Web 博客（ Hexo ） 、 Web 论坛（ Node Club ）、前端模块管理平台（ Bower.js ）、浏览器环境工具（ Browserif沪、命令行工具（ Commander)等。
+- 7. 例如 Web 聊天室（ `Socket.io` ）、 Web 博客（ `Hexo` ） 、 Web 论坛（ `Node Club` ）、前端模块管理平台（ `Bower.js` ）、浏览器环境工具（ `Browserify` )、命令行工具（ `Commander` )等。
 
 #### 1.2.NPM
 - 1. NPM 是一个 JavaScript 的模块管理工具，遵循 CommonJS 标准，由 Isaac Z . Schlueter 开发
@@ -70,7 +70,7 @@
 - 3. HTTP/ 1.1 目前依旧被广泛地使用在互联网领域，其在 HTTP/1.0 的基础上又做了大量的改进
 - 4. 2009 年， Goolge 公开了自己研发的 SPDY （单词 speedy 的缩写〉 协议，通过多路复用、压缩、优先级、安全等新技术方案，缩短了网页的加载时间，井提高了安全性 。IETF( The Internet Engineering Task Force,国际互联网工程任务组〉随后对 SPDY 进行了标准化， 并作为制定 HTTP/2 标准的起点 。
 - 5. URI: Uniform Resource Identifier （统一资源标识符）；URL: Uniform Resource Locator （ 统一资源定位符〉
-- 6. 一个完整的URL一般由 7 个部分组成：scheme: [//[user[:password]@]host[:port]][/path][?query][#fragment]
+- 6. 一个完整的URL一般由 7 个部分组成：`scheme: [//[user[:password]@]host[:port]][/path][?query][#fragment]`
 - 7. HTTP 状态码表示服务器响应状态的 3 位数字。 HTTP 状态码主要包括 1** （消息）、 2**（成功）、 3**（重定向）、 4**（请求错误〉、 5**和 6** （服务器错误）等 6 种不同类型。
 - 8. 目前常用的 9 种 HTTP 请求：GET、POST、HEAD、PUT、DELETE、CONNECT、OPTIONS、TRACE、PATCH
 - 9. 首部字段是构成 HTTP 的重要元素之一 ，用以提供 HTTP 传输过程中额外 的重要信息 。常见的首部字段：User-Agent、Last-Modified、Content-Length、Content-Encoding、Content-Type、Expires、Set-Cookies、Cookie、Cache-Control、ETag、Vary、Server

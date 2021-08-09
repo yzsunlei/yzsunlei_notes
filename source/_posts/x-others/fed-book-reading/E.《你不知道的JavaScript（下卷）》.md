@@ -208,7 +208,7 @@
 - 8.原型方法entries()、values()、keys()：它提供了同样的迭代器方法entries()、values()和keys()，从这个意义上说，他是一个集合
 
 #### 6.2.Object
-- 1.静态函数Object.is(..)：静态函数Object.is(..)执行比===比较更严格的值比较；Object.is(..)调用底层的SameValue算法；如果需要严格识别NaN或者-0，那么应该选择Object.is(..)；
+- 1.静态函数`Object.is(..)`：静态函数`Object.is(..)`执行比===比较更严格的值比较；`Object.is(..)`调用底层的SameValue算法；如果需要严格识别NaN或者-0，那么应该选择`Object.is(..)`；
 - 2.静态函数Object.getOwnPropertySymbols(..)：它直接从对象上取得所有的符号属性
 - 3.静态函数Object.setPrototypeOf(..)：设置对象的`[[Prototype]]`用于行为委托
 - 4.静态函数Object.assign(..)：很多JavaScript库/框架提供了用于把一个对象的属性复制/混合到另一个对象中德工具；ES6新增了Object.assign(..)，对于每个源来说，它的可枚举和自己拥有的（也就是不是“继承来的”）键值，包括符号都会通过简单=赋值被复制；不可枚举的属性和非自有的属性都被排除在赋值过程之外；Object.create(..)是ES5工具，创建一个`[[Prototype]]`链接的空对象；
