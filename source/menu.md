@@ -299,6 +299,19 @@
 
 - [L.《现代前端技术解析》_张成文](/x-others/fed-book-reading/L.《现代前端技术解析》/index.html)
 
+- [L.《深入浅出Serverless-技术原理与应用实践》](/x-others/fed-book-reading/L.《深入浅出Serverless-技术原理与应用实践》/index.html)
+
+- [L.《微服务设计》](/x-others/fed-book-reading/L.《微服务设计》/index.html)
+
+- [L.《云原生：运用容器、函数计算和数据构建下一代应用》](/x-others/fed-book-reading/L.《云原生：运用容器、函数计算和数据构建下一代应用》/index.html)
+
+- [L.《云原生架构进阶实战》](/x-others/fed-book-reading/L.《云原生架构进阶实战》/index.html)
+
+- [L.《DevOps和自动化运维实践》](/x-others/fed-book-reading/L.《DevOps和自动化运维实践》/index.html)
+
+- [L.《Docker技术入门与实战-第3版》](/x-others/fed-book-reading/L.《Docker技术入门与实战-第3版》/index.html)
+
+
 ## 经管书籍笔记
 
 - [01.《把时间当作朋友》_李笑来](/x-others/busi-book-reading/01.《把时间当作朋友》_李笑来/index.html)
