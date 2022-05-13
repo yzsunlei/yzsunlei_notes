@@ -60,13 +60,29 @@
 
 - [查找/搜索算法 - 插值查找](/x-basic/2.great-algorithms/3.4.chazhichazhao/index.html)
 
-<!-- ## JavaScript核心 -->
+## html5&css3
 
-<!-- ## 玩转CSS -->
+- [常见布局总结](/x-basic/3.html5&css3-technic/01.general-layout/index.html)
 
-<!-- ## 前端导文 -->
+- [flex布局详解](/x-basic/3.html5&css3-technic/02.flex-layout/index.html)
 
-## 手写代码
+- [水平垂直居中实现](/x-basic/3.html5&css3-technic/03.horizontal-vertical-center/index.html)
+
+- [浏览器渲染过程](/x-basic/3.html5&css3-technic/04.browser-render/index.html)
+
+## JavaScript核心
+
+- [js实现继承](/x-base/4.javascript-core-knowledge/01.js-inherit/index.html)
+
+- [js实现跨域](/x-base/4.javascript-core-knowledge/02.js-cross-domain/index.html)
+
+- [js事件循环机制](/x-base/4.javascript-core-knowledge/03.js-event-loops/index.html)
+
+- [js进程、线程、协程详解](/x-base/4.javascript-core-knowledge/04.coroutines/index.html)
+
+- [js垃圾回收机制详解](/x-base/4.javascript-core-knowledge/05.js-garbage-collection/index.html)
+
+## js函数手写
 
 - [手写实现 - call方法](/x-basic/5.function-handwriting/01.call/index.html)
 
@@ -86,88 +102,127 @@
 
 - [手写实现 - deepCopy方法](/x-basic/5.function-handwriting/10.deepCopy/index.html)
 
+## JavaScript设计模式
+
+- [01.简单工厂模式](/x-basic/6.design-mode/01.easy-factory-pattern/index.html)
+
+- [02.工厂方法模式](/x-basic/6.design-mode/02.factory-method-pattern/index.html)
+
+- [03.抽象工厂模式](/x-basic/6.design-mode/03.abstract-factory-pattern/index.html)
+
+- [04.建造者模式](/x-basic/6.design-mode/04.builder-pattern/index.html)
+
+- [05.原型模式](/x-basic/6.design-mode/05.prototype-pattern/index.html)
+
+- [06.单例模式](/x-basic/6.design-mode/06.singleton-pattern/index.html)
+
+- [07.外观模式](/x-basic/6.design-mode/07.facade-pattern/index.html)
+
+- [08.适配器模式](/x-basic/6.design-mode/08.adapter-pattern/index.html)
+
+- [09.代理模式](/x-basic/6.design-mode/09.proxy-pattern/index.html)
+
+- [10.装饰者模式](/x-basic/6.design-mode/10.decorator-pattern/index.html)
+
+- [11.桥接模式](/x-basic/6.design-mode/11.bridge-pattern/index.html)
+
+- [12.组合模式](/x-basic/6.design-mode/12.composite-pattern/index.html)
+
+- [13.享元模式](/x-basic/6.design-mode/13.flyweight-pattern/index.html)
+
+- [14.模板方法模式](/x-basic/6.design-mode/14.template-method-pattern/index.html)
+
+- [15.观察者模式](/x-basic/6.design-mode/15.observer-pattern/index.html)
+
+- [16.状态模式](/x-basic/6.design-mode/16.state-pattern/index.html)
+
+- [17.策略模式](/x-basic/6.design-mode/17.strategy-pattern/index.html)
+
+- [18.职责链模式](/x-basic/6.design-mode/18.chain-of-responsibility-pattern/index.html)
+
+- [19.命令模式](/x-basic/6.design-mode/19.command-pattern/index.html)
+
+- [20.访问者模式](/x-basic/6.design-mode/20.visitor-pattern/index.html)
+
+- [21.中介者模式](/x-basic/6.design-mode/21.mediator-pattern/index.html)
+
+- [22.备忘录模式](/x-basic/6.design-mode/22.memento-pattern/index.html)
+
+- [23.迭代器模式](/x-basic/6.design-mode/23.iterator-pattern/index.html)
+
+- [24.解释器模式](/x-basic/6.design-mode/24.interpreter-pattern/index.html)
+
+- [25.链模式](/x-basic/6.design-mode/25.chain-pattern/index.html)
+
+- [26.委托模式](/x-basic/6.design-mode/26.delegator-pattern/index.html)
+
+- [27.数据访问对象模式](/x-basic/6.design-mode/27.data-access-object-pattern/index.html)
+
+- [28.节流模式](/x-basic/6.design-mode/28.throttling-pattern/index.html)
+
+- [29.简单模板模式](/x-basic/6.design-mode/29.simple-template-pattern/index.html)
+
+- [30.惰性模式](/x-basic/6.design-mode/30.inertia-pattern/index.html)
+
+- [31.参与者模式](/x-basic/6.design-mode/31.actor-pattern/index.html)
+
+- [32.等待者模式](/x-basic/6.design-mode/32.waiting-pattern/index.html)
+
+- [33.同步模块模式](/x-basic/6.design-mode/33.synchronous-module-pattern/index.html)
+
+- [34.异步模块模式](/x-basic/6.design-mode/34.asynchronous-module-pattern/index.html)
+
+- [35.Widget模式](/x-basic/6.design-mode/35.widget-pattern/index.html)
+
+- [36.MVC模式](/x-basic/6.design-mode/36.mvc-pattern/index.html)
+
+- [37.MVP模式](/x-basic/6.design-mode/37.mvp-pattern/index.html)
+
+- [38.MVVM模式](/x-basic/6.design-mode/38.mvvm-pattern/index.html)
+
+<!-- ## js常用框架库 -->
+
+<!-- ## 前端常用工具 -->
 
 # 前端进阶
 
-## JavaScript设计模式
+<!-- ## 前端知识树 -->
 
-- [01.简单工厂模式](/x-advance/6.design-mode/01.easy-factory-pattern/index.html)
+## Vue源码学习
 
-- [02.工厂方法模式](/x-advance/6.design-mode/02.factory-method-pattern/index.html)
+- [0.简介](/x-advance/1.vue-source-reading/README/index.html)
 
-- [03.抽象工厂模式](/x-advance/6.design-mode/03.abstract-factory-pattern/index.html)
+- [1.1.Vue源码结构说明](/x-advance/1.vue-source-reading/1.1.Vue源码结构说明/index.html)
 
-- [04.建造者模式](/x-advance/6.design-mode/04.builder-pattern/index.html)
+- [1.2.Vue初始化过程分析-new Vue()到底做了什么](/x-advance/1.vue-source-reading/1.2.Vue初始化过程分析-new%20Vue()到底做了什么/index.html)
 
-- [05.原型模式](/x-advance/6.design-mode/05.prototype-pattern/index.html)
+- [1.3.Vue双向绑定原理-Object.defineProperty数据劫持和发布订阅机制](/x-advance/1.vue-source-reading/1.3.Vue双向绑定原理-Object.defineProperty数据劫持和发布订阅机制/index.html)
 
-- [06.单例模式](/x-advance/6.design-mode/06.singleton-pattern/index.html)
+- [1.4.Vue模板编译原理-Template生成AST](/x-advance/1.vue-source-reading/1.4.Vue模板编译原理-Template生成AST/index.html)
 
-- [07.外观模式](/x-advance/6.design-mode/07.facade-pattern/index.html)
+- [1.5.Vue模板编译原理-AST生成Render字符串](/x-advance/1.vue-source-reading/1.5.Vue模板编译原理-AST生成Render字符串/index.html)
 
-- [08.适配器模式](/x-advance/6.design-mode/08.adapter-pattern/index.html)
+- [2.1.Vue-router源码结构说明](/x-advance/1.vue-source-reading/2.1.Vue-router源码结构说明/index.html)
 
-- [09.代理模式](/x-advance/6.design-mode/09.proxy-pattern/index.html)
+- [2.2.Vue-router使用过程分析](/x-advance/1.vue-source-reading/2.2.Vue-router使用过程分析/index.html)
 
-- [10.装饰者模式](/x-advance/6.design-mode/10.decorator-pattern/index.html)
+- [2.3.Vue-router基本实现原理](/x-advance/1.vue-source-reading/2.3.Vue-router基本实现原理/index.html)
 
-- [11.桥接模式](/x-advance/6.design-mode/11.bridge-pattern/index.html)
+- [2.4.Vue-router匹配机制解析](/x-advance/1.vue-source-reading/2.4.Vue-router匹配机制解析/index.html)
 
-- [12.组合模式](/x-advance/6.design-mode/12.composite-pattern/index.html)
+- [2.5.Vue-router高级功能分析](/x-advance/1.vue-source-reading/2.5.Vue-router高级功能分析/index.html)
 
-- [13.享元模式](/x-advance/6.design-mode/13.flyweight-pattern/index.html)
+- [3.1.Vuex源码结构说明](/x-advance/1.vue-source-reading/3.1.Vuex源码结构说明/index.html)
 
-- [14.模板方法模式](/x-advance/6.design-mode/14.template-method-pattern/index.html)
+- [3.2.Vuex安装使用分析](/x-advance/1.vue-source-reading/3.2.Vuex安装使用分析/index.html)
 
-- [15.观察者模式](/x-advance/6.design-mode/15.observer-pattern/index.html)
+- [3.3.Vuex核心功能解析](/x-advance/1.vue-source-reading/3.3.Vuex核心功能解析/index.html)
 
-- [16.状态模式](/x-advance/6.design-mode/16.state-pattern/index.html)
+- [3.4.Vuex中辅助函数实现说明](/x-advance/1.vue-source-reading/3.4.Vuex中辅助函数实现说明/index.html)
 
-- [17.策略模式](/x-advance/6.design-mode/17.strategy-pattern/index.html)
+<!-- ## React源码学习 -->
 
-- [18.职责链模式](/x-advance/6.design-mode/18.chain-of-responsibility-pattern/index.html)
-
-- [19.命令模式](/x-advance/6.design-mode/19.command-pattern/index.html)
-
-- [20.访问者模式](/x-advance/6.design-mode/20.visitor-pattern/index.html)
-
-- [21.中介者模式](/x-advance/6.design-mode/21.mediator-pattern/index.html)
-
-- [22.备忘录模式](/x-advance/6.design-mode/22.memento-pattern/index.html)
-
-- [23.迭代器模式](/x-advance/6.design-mode/23.iterator-pattern/index.html)
-
-- [24.解释器模式](/x-advance/6.design-mode/24.interpreter-pattern/index.html)
-
-- [25.链模式](/x-advance/6.design-mode/25.chain-pattern/index.html)
-
-- [26.委托模式](/x-advance/6.design-mode/26.delegator-pattern/index.html)
-
-- [27.数据访问对象模式](/x-advance/6.design-mode/27.data-access-object-pattern/index.html)
-
-- [28.节流模式](/x-advance/6.design-mode/28.throttling-pattern/index.html)
-
-- [29.简单模板模式](/x-advance/6.design-mode/29.simple-template-pattern/index.html)
-
-- [30.惰性模式](/x-advance/6.design-mode/30.inertia-pattern/index.html)
-
-- [31.参与者模式](/x-advance/6.design-mode/31.actor-pattern/index.html)
-
-- [32.等待者模式](/x-advance/6.design-mode/32.waiting-pattern/index.html)
-
-- [33.同步模块模式](/x-advance/6.design-mode/33.synchronous-module-pattern/index.html)
-
-- [34.异步模块模式](/x-advance/6.design-mode/34.asynchronous-module-pattern/index.html)
-
-- [35.Widget模式](/x-advance/6.design-mode/35.widget-pattern/index.html)
-
-- [36.MVC模式](/x-advance/6.design-mode/36.mvc-pattern/index.html)
-
-- [37.MVP模式](/x-advance/6.design-mode/37.mvp-pattern/index.html)
-
-- [38.MVVM模式](/x-advance/6.design-mode/38.mvvm-pattern/index.html)
-
-## Webpack指北
+## Webpack工具指北
 
 - [0.简介](/x-advance/3.webpack-build-tool/README/index.html)
 
@@ -175,57 +230,25 @@
 
 - [2.一篇文章看懂Webpack配置](/x-advance/3.webpack-build-tool/2.一篇文章看懂Webpack配置/index.html)
 
-- [3.前端工程师必会的Webpack配置实战（一）](/x-advance/3.webpack-build-tool/3.前端工程师必会的Webpack配置实战（一）/index.html)
+- [3.前端工程师必会的Webpack配置实战1](/x-advance/3.webpack-build-tool/3.前端工程师必会的Webpack配置实战1/index.html)
 
-- [4.前端工程师必会的Webpack配置实战（二）](/x-advance/3.webpack-build-tool/4.前端工程师必会的Webpack配置实战（二）/index.html)
+- [4.前端工程师必会的Webpack配置实战2](/x-advance/3.webpack-build-tool/4.前端工程师必会的Webpack配置实战2/index.html)
 
 - [5.来，一起深入Webpack工作原理](/x-advance/3.webpack-build-tool/5.来，一起深入Webpack工作原理/index.html)
 
-- [6.前端面试必考的Webpack优化技巧（一）](/x-advance/3.webpack-build-tool/6.前端面试必考的Webpack优化技巧（一）/index.html)
+- [6.前端面试必考的Webpack优化技巧1](/x-advance/3.webpack-build-tool/6.前端面试必考的Webpack优化技巧1/index.html)
 
-- [7.前端面试必考的Webpack优化技巧（二）](/x-advance/3.webpack-build-tool/7.前端面试必考的Webpack优化技巧（二）/index.html)
+- [7.前端面试必考的Webpack优化技巧2](/x-advance/3.webpack-build-tool/7.前端面试必考的Webpack优化技巧2/index.html)
 
 - [8.教你如何自己手撸一个loader](/x-advance/3.webpack-build-tool/8.教你如何自己手撸一个loader/index.html)
 
 - [9.教你如何自己手撸一个plugin](/x-advance/3.webpack-build-tool/9.教你如何自己手撸一个plugin/index.html)
 
+<!-- ## 解构babel编译 -->
 
-<!-- ## 异步编程 -->
+<!-- ## node技术实践 -->
 
-## Vue源码学习
-
-- [0.简介](/x-advance/vue-source/README/index.html)
-
-- [1.1.Vue源码结构说明](/x-advance/vue-source/1.1.Vue源码结构说明/index.html)
-
-- [1.2.Vue初始化过程分析-new Vue()到底做了什么](/x-advance/vue-source/1.2.Vue初始化过程分析-new%20Vue()到底做了什么/index.html)
-
-- [1.3.Vue双向绑定原理-Object.defineProperty数据劫持和发布订阅机制](/x-advance/vue-source/1.3.Vue双向绑定原理-Object.defineProperty数据劫持和发布订阅机制/index.html)
-
-- [1.4.Vue模板编译原理-Template生成AST](/x-advance/vue-source/1.4.Vue模板编译原理-Template生成AST/index.html)
-
-- [1.5.Vue模板编译原理-AST生成Render字符串](/x-advance/vue-source/1.5.Vue模板编译原理-AST生成Render字符串/index.html)
-
-- [2.1.Vue-router源码结构说明](/x-advance/vue-source/2.1.Vue-router源码结构说明/index.html)
-
-- [2.2.Vue-router使用过程分析](/x-advance/vue-source/2.2.Vue-router使用过程分析/index.html)
-
-- [2.3.Vue-router基本实现原理](/x-advance/vue-source/2.3.Vue-router基本实现原理/index.html)
-
-- [2.4.Vue-router匹配机制解析](/x-advance/vue-source/2.4.Vue-router匹配机制解析/index.html)
-
-- [2.5.Vue-router高级功能分析](/x-advance/vue-source/2.5.Vue-router高级功能分析/index.html)
-
-- [3.1.Vuex源码结构说明](/x-advance/vue-source/3.1.Vuex源码结构说明/index.html)
-
-- [3.2.Vuex安装使用分析](/x-advance/vue-source/3.2.Vuex安装使用分析/index.html)
-
-- [3.3.Vuex核心功能解析](/x-advance/vue-source/3.3.Vuex核心功能解析/index.html)
-
-- [3.4.Vuex中辅助函数实现说明](/x-advance/vue-source/3.4.Vuex中辅助函数实现说明/index.html)
-
-<!-- ## React源码学习 -->
-
+<!-- ## 前端CI/CD -->
 
 # 前端前沿
 
@@ -245,7 +268,7 @@
 
 <!-- ## 玩转云服务器 -->
 
-# 阅读笔记
+# 书籍笔记
 
 ## 前端书籍笔记
 
