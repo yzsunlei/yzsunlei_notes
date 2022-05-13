@@ -51,9 +51,7 @@ const putOss = (dir, files) => {
   }
 }
 
-// const dir = 'docs'
-// getAllFile(dir).then((files) => {
-//   putOss(dir, files);
-// })
-
-console.log("请推送到腾讯云")
+const dir = 'docs'
+getAllFile(dir).then((files) => {
+  putOss(dir, files);
+})
